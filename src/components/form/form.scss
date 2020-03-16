@@ -1,0 +1,26 @@
+.search__form {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form__input-city {
+  width: 80%;
+  margin: 1rem 0;
+  font-size: 1.2rem;
+  background-color: #00000000;
+  border: 0;
+  border-bottom: 1px solid #ebebeb;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.search__weather-btn {
+  border: 0;
+  border-radius: 5px;
+  background: linear-gradient(to right, #163e88f6, #000000 95%);
+  padding: 0.3rem 1rem;
+  font-size: 1rem;
+  color: #ececec;
+}
